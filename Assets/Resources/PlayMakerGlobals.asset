@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c91e31617be8b730be0459768edc5e8, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier:
+  variables:
+    floatVariables: []
+    intVariables:
+    - useVariable: 1
+      name: weatherCurrent
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables:
+    - useVariable: 1
+      name: skipDay
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: endDay
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: screenFade
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: nextDay
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: tutorialDone
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: resetGame
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: buildObstacle
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: camPause
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: buildLocate
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: buildOption
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: interacting
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    stringVariables: []
+    vector2Variables: []
+    vector3Variables: []
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables:
+    - useVariable: 1
+      name: playerObject
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: camTarget
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: hudObject
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    objectVariables:
+    - useVariable: 1
+      name: mainCam
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      typeName: UnityEngine.Camera
+      value: {fileID: 0}
+    - useVariable: 1
+      name: camObject
+      tooltip:
+      showInInspector: 0
+      networkSync: 0
+      typeName: UnityEngine.Camera
+      value: {fileID: 0}
+    materialVariables: []
+    textureVariables: []
+    arrayVariables: []
+    enumVariables: []
+    categories:
+    - 
+    variableCategoryIDs:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  events:
+  - GeneratorMenu
+  - 1
+  - 2
+  - 3
+  - 0
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - End
+  - Reset
+  - Smash
+  - Plant
+  - Cut
+  - Carry
+  - Sprinkle
+  - Footstep
+  - Swing
+  - On
+  - Repeat
+  - CocoSeed
+  - BuildSelect
+  - 9
+  - Dig

@@ -1,0 +1,12 @@
+Converting script [1 / 1]	[\Scripts\UI\Player.cs]
+	Fragments : 3
+		[ 0] : Line:   29	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:   39	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:   40	InputMethod   GetAxis             	("Vertical")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [D:/Unity3/Island Project/CF2-Data/Script-Backups/2024-08-15-21-40\Assets-After/\Scripts\UI\Player.cs] to [D:/Unity3/Island Project/Assets/\Scripts\UI\Player.cs]
+
+Overwriting COMPLETED!

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7162153e9fed35348adaf2963914c28a
+timeCreated: 1722943286
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Philippine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ac08b08d8e9eec248a70854a9dfc2a0e, type: 3}
+  - {fileID: 12800000, guid: 79f4073abc6b22843a3a5411166cd7d0, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
